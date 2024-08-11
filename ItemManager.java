@@ -22,7 +22,6 @@ public class ItemManager {
         items.add(new Item("image_7.jpg", 78));
         items.add(new Item("image_8.jpg", 29));
         items.add(new Item("image_9.jpg", 67));
-        items.add(new Item("image_10.jpg", 48));
     }
 
     public void startNewRound() {
